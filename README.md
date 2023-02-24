@@ -12,6 +12,6 @@ Simple node script to download all cryptocurrency icons from coinmarketcap
    Warning will be issued on console.
 5. Send us some love on ETH/BSC: 0xb041a5b81981555656CaEecC959b42AFA0d0c0de
 
-9000+ predownloaded icons available in branch: [icons-24-02-2023](https://cryptoxpress.com)
+9000+ predownloaded icons available in branch: [icons-24-02-2023](https://github.com/cryptoxpress/coinmarketcap-icon-downloader/tree/icons-24-02-23)
 
 Visit us at [CryptoXpress.com](https://cryptoxpress.com)
