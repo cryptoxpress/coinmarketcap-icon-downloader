@@ -1,0 +1,11 @@
+node_modules
+.npm
+.next
+.idea
+out
+.DS_Store
+public/sw.js
+public/sw.js.map
+_next
+.env.development
+.env
