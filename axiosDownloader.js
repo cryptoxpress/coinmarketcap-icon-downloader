@@ -37,7 +37,7 @@ const iconDestination = `${__dirname}/icons/`;
 const availableFormats = ["128x128", "64x64", "32x32", "16x16"];
 const availableNames = ["rank", "slug", "symbol"];
 
-let chosenFormat = availableFormats[1];
+let chosenFormat = availableFormats[0];
 let chosenName = availableNames[2];
 
 let cryptocurrencyDownloadUrls = [];
